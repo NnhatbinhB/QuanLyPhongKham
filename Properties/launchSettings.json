@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "QuanLyPhongKham": {
+      "commandName": "Project",
+      "dotnetRunMessages": true
+    }
+  }
+}

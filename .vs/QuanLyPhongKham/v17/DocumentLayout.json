@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|c:\\users\\trung hieu\\downloads\\quanlyphongkham\\forms\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|solutionrelative:forms\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|c:\\users\\trung hieu\\downloads\\quanlyphongkham\\forms\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|solutionrelative:forms\\frmbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|c:\\users\\trung hieu\\downloads\\quanlyphongkham\\forms\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|solutionrelative:forms\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|c:\\users\\trung hieu\\downloads\\quanlyphongkham\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|solutionrelative:forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|c:\\users\\trung hieu\\downloads\\quanlyphongkham\\forms\\frmbacsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|solutionrelative:forms\\frmbacsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|c:\\users\\trung hieu\\downloads\\quanlyphongkham\\forms\\frmphanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|solutionrelative:forms\\frmphanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|c:\\users\\trung hieu\\downloads\\quanlyphongkham\\forms\\frmtrogiup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|solutionrelative:forms\\frmtrogiup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|c:\\users\\trung hieu\\downloads\\quanlyphongkham\\forms\\frmdonthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|solutionrelative:forms\\frmdonthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|c:\\users\\trung hieu\\downloads\\quanlyphongkham\\forms\\frmcaidat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|solutionrelative:forms\\frmcaidat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|c:\\users\\trung hieu\\downloads\\quanlyphongkham\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|c:\\users\\trung hieu\\downloads\\quanlyphongkham\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|c:\\users\\trung hieu\\downloads\\quanlyphongkham\\data\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|solutionrelative:data\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|c:\\users\\trung hieu\\downloads\\quanlyphongkham\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|solutionrelative:data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|c:\\users\\trung hieu\\downloads\\quanlyphongkham\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|solutionrelative:forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|c:\\users\\trung hieu\\downloads\\quanlyphongkham\\forms\\frmdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|solutionrelative:forms\\frmdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|c:\\users\\trung hieu\\downloads\\quanlyphongkham\\forms\\frmloaithuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|solutionrelative:forms\\frmloaithuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|c:\\users\\trung hieu\\downloads\\quanlyphongkham\\forms\\frmbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|solutionrelative:forms\\frmbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|c:\\users\\trung hieu\\downloads\\quanlyphongkham\\forms\\frmgiuongbenh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|solutionrelative:forms\\frmgiuongbenh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|c:\\users\\trung hieu\\downloads\\quanlyphongkham\\forms\\frmlichhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|solutionrelative:forms\\frmlichhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|c:\\users\\trung hieu\\downloads\\quanlyphongkham\\data\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|solutionrelative:data\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|c:\\users\\trung hieu\\downloads\\quanlyphongkham\\data\\hoadonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B06C996A-9EAF-D5BB-E519-A710614B76D3}|QuanLyPhongKham.csproj|solutionrelative:data\\hoadonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmTroGiup.cs",
+              "DocumentMoniker": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmTroGiup.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmTroGiup.cs",
+              "ToolTip": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmTroGiup.cs",
+              "RelativeToolTip": "Forms\\FrmTroGiup.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAMkCAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T04:37:24.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Data\\AppSettings.cs",
+              "RelativeDocumentMoniker": "Data\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Data\\AppSettings.cs",
+              "RelativeToolTip": "Data\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T04:09:16.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T03:57:12.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmLogin.cs",
+              "RelativeToolTip": "Forms\\FrmLogin.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAUwC0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T03:51:08.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmCaiDat.cs",
+              "DocumentMoniker": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmCaiDat.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmCaiDat.cs",
+              "ToolTip": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmCaiDat.cs",
+              "RelativeToolTip": "Forms\\FrmCaiDat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T03:42:05.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmGiuongBenh.cs",
+              "DocumentMoniker": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmGiuongBenh.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmGiuongBenh.cs",
+              "ToolTip": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmGiuongBenh.cs",
+              "RelativeToolTip": "Forms\\FrmGiuongBenh.cs",
+              "ViewState": "AgIAAEUCAAAAAAAAAAAcwGQCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:01:26.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmDashBoard.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDashBoard.cs",
+              "ToolTip": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmDashBoard.cs",
+              "RelativeToolTip": "Forms\\FrmDashBoard.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAQwK8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:25:20.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmBaoCao.cs",
+              "DocumentMoniker": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmBaoCao.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmBaoCao.cs",
+              "ToolTip": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmBaoCao.cs",
+              "RelativeToolTip": "Forms\\FrmBaoCao.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAnwKUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T07:44:42.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmailHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Data\\EmailHelper.cs",
+              "RelativeDocumentMoniker": "Data\\EmailHelper.cs",
+              "ToolTip": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Data\\EmailHelper.cs",
+              "RelativeToolTip": "Data\\EmailHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T15:19:10.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmLoaiThuoc.cs",
+              "DocumentMoniker": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmLoaiThuoc.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmLoaiThuoc.cs",
+              "ToolTip": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmLoaiThuoc.cs",
+              "RelativeToolTip": "Forms\\FrmLoaiThuoc.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAcwOEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:22:29.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmBenhNhan.cs",
+              "DocumentMoniker": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmBenhNhan.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmBenhNhan.cs",
+              "ToolTip": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmBenhNhan.cs",
+              "RelativeToolTip": "Forms\\FrmBenhNhan.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAADgv3cAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:52:40.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmDonThuoc.cs",
+              "DocumentMoniker": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmDonThuoc.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDonThuoc.cs",
+              "ToolTip": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmDonThuoc.cs",
+              "RelativeToolTip": "Forms\\FrmDonThuoc.cs",
+              "ViewState": "AgIAAFUBAAAAAAAAAADwv3oBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T07:30:40.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HoaDonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Data\\HoaDonRepository.cs",
+              "RelativeDocumentMoniker": "Data\\HoaDonRepository.cs",
+              "ToolTip": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Data\\HoaDonRepository.cs",
+              "RelativeToolTip": "Data\\HoaDonRepository.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwFEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:25:56.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmLichHen.cs",
+              "DocumentMoniker": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmLichHen.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmLichHen.cs",
+              "ToolTip": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmLichHen.cs",
+              "RelativeToolTip": "Forms\\FrmLichHen.cs",
+              "ViewState": "AgIAAHQDAAAAAAAAAADwv6QDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:53:35.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmDichVu.cs",
+              "DocumentMoniker": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmDichVu.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDichVu.cs",
+              "ToolTip": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmDichVu.cs",
+              "RelativeToolTip": "Forms\\FrmDichVu.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAcwAEBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:53:20.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmHoaDon.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmHoaDon.cs",
+              "ToolTip": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmHoaDon.cs",
+              "RelativeToolTip": "Forms\\FrmHoaDon.cs",
+              "ViewState": "AgIAAE8DAAAAAAAAAAAwwOsDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:53:02.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmMain.cs",
+              "RelativeToolTip": "Forms\\FrmMain.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAYwNUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:07:15.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-24T17:59:26.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Data\\Database.cs",
+              "RelativeDocumentMoniker": "Data\\Database.cs",
+              "ToolTip": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Data\\Database.cs",
+              "RelativeToolTip": "Data\\Database.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwIoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:59:17.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmPhanQuyen.cs",
+              "DocumentMoniker": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmPhanQuyen.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmPhanQuyen.cs",
+              "ToolTip": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmPhanQuyen.cs",
+              "RelativeToolTip": "Forms\\FrmPhanQuyen.cs",
+              "ViewState": "AgIAAMABAAAAAAAAAAAgwO8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:42:56.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmBacSi.cs",
+              "DocumentMoniker": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmBacSi.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmBacSi.cs",
+              "ToolTip": "C:\\Users\\Trung Hieu\\Downloads\\QuanLyPhongKham\\Forms\\FrmBacSi.cs",
+              "RelativeToolTip": "Forms\\FrmBacSi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANoBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:41:24.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
